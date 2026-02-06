@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/online-chess-platform-214284-214293/chess_backend"
+}
